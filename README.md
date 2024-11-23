@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on linux and bash commands
+- 🌱 I’m currently learning all of the Chopin Nocturnes
+
 <!--
 **gogreen2025/gogreen2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
